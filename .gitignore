@@ -1,0 +1,22 @@
+### Gradle ###
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+### IDEs ###
+.idea/
+*.iml
+out/
+.run/
+.vscode/
+.classpath
+.project
+.settings
+bin/
+
+### Minecraft Modding ###
+run/
+run-gametest/
+run-data/
+**/src/generated/**/.cache/
+repo/
